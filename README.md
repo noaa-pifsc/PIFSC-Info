@@ -10,3 +10,6 @@ The [Pacific Islands Fisheries Science Center](https://www.fisheries.noaa.gov/ab
  		- Description: The VCM was developed to provide a safe and easy way to install and upgrade database modules deployed on a given Oracle database instance.  The VCM provides information on which database module versions were installed and when they were installed on a database instance.  This module is used to apply the necessary database upgrades in the correct order to upgrade a given database module to a desired version.  
 	- [Database Logging Module (DLM)](https://github.com/PIFSC-NMFS-NOAA/database-logging-module)
  		- Description: The DLM was developed to provide a method to log entries in an Oracle database for any modules that utilize an Oracle database.  
+
+## Repository Access from NOAA Website
+This repository is also available as a [compressed backup file (PIFSC-Info.tar.gz)](https://pifsc-xfer.irc.noaa.gov/gitxfer/PIFSC-Info.tar.gz) on a publicly accessible website maintained by the PIFSC of the NOAA National Marine Fisheries Service (NMFS)
