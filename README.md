@@ -4,12 +4,12 @@ The [Pacific Islands Fisheries Science Center](https://www.fisheries.noaa.gov/ab
 
 ## List of Projects (by division):
 - Science Operations Division (SOD)
-	- [Data Validation Module (DVM)](https://github.com/PIFSC-NMFS-NOAA/data-validation-module)
- 		- Description: The DVM was developed to provide a framework to validate data entered in a given Oracle database based on flexible data validation criteria.  The module provides a documented, repeatable method for evaluating data quality control (QC) criteria on a given data set.  This module formally addresses the assurance phase of the data life cycle and addresses the transparency objective defined in the NOAA Data Strategy.  
-	- [Database Version Control Module (VCM)](https://github.com/PIFSC-NMFS-NOAA/database-version-control-module)
- 		- Description: The VCM was developed to provide a safe and easy way to install and upgrade database modules deployed on a given Oracle database instance.  The VCM provides information on which database module versions were installed and when they were installed on a database instance.  This module is used to apply the necessary database upgrades in the correct order to upgrade a given database module to a desired version.  
-	- [Database Logging Module (DLM)](https://github.com/PIFSC-NMFS-NOAA/database-logging-module)
- 		- Description: The DLM was developed to provide a method to log entries in an Oracle database for any modules that utilize an Oracle database.  
+  - [Data Validation Module (DVM)](https://github.com/PIFSC-NMFS-NOAA/data-validation-module)
+    - Description: The DVM was developed to provide a framework to validate data entered in a given Oracle database based on flexible data validation criteria.  The module provides a documented, repeatable method for evaluating data quality control (QC) criteria on a given data set.  This module formally addresses the assurance phase of the data life cycle and addresses the transparency objective defined in the NOAA Data Strategy.  
+  - [Database Logging Module (DLM)](https://github.com/PIFSC-NMFS-NOAA/database-logging-module)
+    - Description: The DLM was developed to provide a method to log entries in an Oracle database for any modules that utilize an Oracle database.  
+  - [Database Version Control Module (VCM)](https://github.com/PIFSC-NMFS-NOAA/database-version-control-module)
+    - Description: The VCM was developed to provide a safe and easy way to install and upgrade database modules deployed on a given Oracle database instance.  The VCM provides information on which database module versions were installed and when they were installed on a database instance.  This module is used to apply the necessary database upgrades in the correct order to upgrade a given database module to a desired version.  
 
 ## Repository Access from NOAA Website
 This repository is also available as a [compressed backup file (PIFSC-Info.tar.gz)](https://pifsc-xfer.irc.noaa.gov/gitxfer/PIFSC-Info.tar.gz) on a publicly accessible website maintained by the PIFSC of the NOAA National Marine Fisheries Service (NMFS)
