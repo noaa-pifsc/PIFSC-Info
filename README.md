@@ -10,6 +10,11 @@ The [Pacific Islands Fisheries Science Center](https://www.fisheries.noaa.gov/ab
     - Description: The DLM was developed to provide a method to log entries in an Oracle database for any modules that utilize an Oracle database.  
   - [Database Version Control Module (VCM)](https://github.com/PIFSC-NMFS-NOAA/PIFSC-DBVersionControlModule)
     - Description: The VCM was developed to provide a safe and easy way to install and upgrade database modules deployed on a given Oracle database instance.  The VCM provides information on which database module versions were installed and when they were installed on a database instance.  This module is used to apply the necessary database upgrades in the correct order to upgrade a given database module to a desired version.  
-
+- ### Maturity Assessment Reproductive Variability and Life Strategies (MARVLS):
+  - [MARVLS Website](https://github.com/MARVLS/MARVLS)
+    - Description: A website for the NOAA Maturity Assessment Reproductive Variability and Life Strategies (MARVLS) group. The purpose is to organize quarterly seminars and annual workshops and increase collaboration and mentorship.
+  - [Fish-Gonad-Staging Learning Center](https://github.com/MARVLS/Fish-Gonad-Staging)
+    - Description: A resource for MARVLS members and for graduate student traninings. It is meant to be an overview on the assessment of fish histological gonad staging. Examples are provided by many contributing researchers and allow for different types of reproductive modes and strategies exhibited in fishes to be compared. 
+    
 ## Repository Access from NOAA Website
 This repository is also available as a [compressed backup file (PIFSC-Info.tar.gz)](https://pifsc-xfer.irc.noaa.gov/gitxfer/PIFSC-Info.tar.gz) on a publicly accessible website maintained by the PIFSC of the NOAA National Marine Fisheries Service (NMFS)
