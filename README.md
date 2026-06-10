@@ -2,6 +2,11 @@
 
 The [Pacific Islands Fisheries Science Center](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center) administers and conducts scientific research and monitoring programs that produce science to support the conservation and management of fisheries and living marine resources. We conduct research on fisheries and ocean ecosystems and the communities that depend on them throughout the Pacific Islands region, and by dedicating efforts to the recovery and conservation of protected species. The Center is organized into five major divisions: Operations, Management, and Information Division; Science Operations Division; Fisheries Research and Monitoring Division; Protected Species Division; and Ecosystem Sciences Division.
 
+## Notice
+- This repository has been archived and is no longer maintained.
+- The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+- It should not be used in production systems.
+
 ## List of Projects (by division/program when applicable):
 - ### PIFSC Data Enterprise:
   - [Data Validation Module (DVM)](https://github.com/noaa-pifsc/PIFSC-DataValidationModule)
